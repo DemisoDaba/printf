@@ -1,7 +1,6 @@
 #ifndef _PRINTF_H_
 #define _PRINTF_H_
 
-mmm
 #include <stdarg.h>
 #include <stdio.h>
 #include <unistd.h>
