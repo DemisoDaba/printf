@@ -7,7 +7,7 @@ This repository contains a version of printf in C programming language, which ma
 * Step-1: Started by creating a char function plus every format of the char function have a specic use.
 * Step-2: The created function will skip '%' and go for the other function format tp run.
 * Step-3: We also added each and every prototype to *main.h* header.
-* Step-4: We tried to merge all function in *_printf*.
+* Step-4: 
 * Step-5: We handled "%c" "%s" "%" "%d" "i" specifiers: .
 
 ## The pseudocode :pencil:
