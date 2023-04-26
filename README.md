@@ -23,7 +23,7 @@ This repository contains a version of printf in C programming language, which ma
 
 ## How to execute the files?
 
-You must write to your Terminal `./` Following the name of the file you want to run.
+You must write to your Terminal `./` Following the name of the file you intend to run.
 
 ### For Example:
 ```
