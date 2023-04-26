@@ -1,7 +1,7 @@
 ## Descriptions
 
 This repository contains a version of printf in C programming language, which maintains the main functions of  basic function. It is totally requested by [Alx-Africa School](https://www.alxafrica.com/) and done by [Demiso Daba of Ethiopia](https://github.com/DemisoDaba/) and [Princeeze of Nigeria](https://github.com/Princeeze744/)
-
+We tried to merge all function in *_printf*.
 
 ## The order by which we are trying:
 * Step-1: Started by creating a char function plus every format of the char function have a specic use.
