@@ -1,13 +1,13 @@
 ## Descriptions
 
 This repository contains a version of printf in C programming language, which maintains the main functions of  basic function. It is totally requested by [Alx-Africa School](https://www.alxafrica.com/) and done by [Demiso Daba of Ethiopia](https://github.com/DemisoDaba/) and [Princeeze of Nigeria](https://github.com/Princeeze744/)
-
+We tried to merge all function in *_printf*.
 
 ## The order by which we are trying:
 * Step-1: Started by creating a char function plus every format of the char function have a specic use.
 * Step-2: The created function will skip '%' and go for the other function format tp run.
-* Step-3: We added each and every prototype to *main.h* header.
-* Step-4: We tried to merge all function in *_printf*.
+* Step-3: We also added each and every prototype to *main.h* header.
+* Step-4: 
 * Step-5: We handled "%c" "%s" "%" "%d" "i" specifiers: .
 
 ## The pseudocode :pencil:
@@ -23,7 +23,7 @@ This repository contains a version of printf in C programming language, which ma
 
 ## How to execute the files?
 
-You must first write to your Terminal `./` Following the name of the file you want to run.
+You must write to your Terminal `./` Following the name of the file you intend to run.
 
 ### For Example:
 ```
